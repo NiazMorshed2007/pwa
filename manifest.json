@@ -6,12 +6,12 @@
     "theme_color": "#009578",
     "display": "standalone",
     "icons": [{
-            "src": "uqi.png",
+            "src": "uqi192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "uqi.png",
+            "src": "uqi512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
